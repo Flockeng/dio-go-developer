@@ -1,0 +1,16 @@
+# Ignorar arquivos de sistema operacional
+.DS_Store
+
+# Ignorar caches do editor
+.vscode/
+.idea/
+*.swp
+
+# Ignorar arquivos do Git
+.git/
+.gitignore
+
+# Ignorar arquivos temporários
+tmp/
+temp/
+*.bak
